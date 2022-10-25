@@ -1,0 +1,33 @@
+{
+    "atomType": "Molecule",
+    "name": "Primo",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 775753,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9895833333333333,
+            "y": 0.5,
+            "uniqueID": 464850,
+            "ioValues": []
+        },
+        {
+            "atomType": "Box",
+            "name": "Box",
+            "x": 0.32395833333333335,
+            "y": 0.6073298429319371,
+            "uniqueID": 326161,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
